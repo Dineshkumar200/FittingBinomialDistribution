@@ -72,6 +72,7 @@ else:
 ![sss](https://user-images.githubusercontent.com/75235789/166263898-74bf1b5c-5269-42b2-a746-333ddca823fd.jpg)
 
 # Result
+Thus, the fitting binomial distribution for the given frequencey distribution is implemented.
 
 
 
