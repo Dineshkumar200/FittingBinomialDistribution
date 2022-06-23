@@ -1,5 +1,9 @@
-# Fitting Binomial Distribution
+# EXP. NO: 01
 
+# DATE: 
+
+
+# <p align = "center"> Fitting Binomial Distribution </p>
 # Aim : 
 
 To fit binomial distribution for the given frequencey distribution
